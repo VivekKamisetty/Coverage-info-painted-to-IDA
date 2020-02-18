@@ -50,4 +50,4 @@ for i in addr:
 ```
 So our control flow is ready, we can now only focus on the coloured instructions.
 
-!(https://github.com/VivekKamisetty/Coverage-info-painted-to-IDA/blob/master/CAP.png)
+![CAP](https://github.com/VivekKamisetty/Coverage-info-painted-to-IDA/blob/master/CAP.png)
