@@ -49,3 +49,5 @@ for i in addr:
         SetColor(int(i,16), CIC_ITEM, 0x98ff000)
 ```
 So our control flow is ready, we can now only focus on the coloured instructions.
+
+!(https://github.com/VivekKamisetty/Coverage-info-painted-to-IDA/blob/master/CAP.png)
